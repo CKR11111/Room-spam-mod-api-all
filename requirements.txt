@@ -2,6 +2,8 @@ Flask
 requests
 pycryptodome
 protobuf
-jwt
+pyjwt
 psutil
 urllib3
+protobuf-decoder
+byte
